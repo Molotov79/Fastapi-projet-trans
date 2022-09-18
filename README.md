@@ -25,4 +25,3 @@ si cela ne marche pas
 **127.0.0.1:8000/docs**
 
 **© copyright El-Hadji Dame Lo Kaba**
-![image](https://user-images.githubusercontent.com/108241621/190927523-0521ad70-245b-493e-b5e2-7a7774f2ab8c.png)
